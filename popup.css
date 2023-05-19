@@ -1,0 +1,52 @@
+body {
+    font-family: Cambria, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  #taskForm {
+    margin-bottom: 20px;
+  }
+  
+  #taskForm input[type="text"],
+  #taskForm input[type="date"],
+  #taskForm button {
+    margin-right: 10px;
+    padding: 6px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 14px;
+  }
+  
+  #taskForm button {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+  }
+  
+  #errorContainer {
+    color: red;
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  
+  #taskList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 8px;
+    cursor: pointer;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    color: #888;
+  }
