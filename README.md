@@ -1,13 +1,13 @@
-# Productivity Tracker (name in progress)
+# Task Manager
 ## Features:
 
 ## 1. Task Management and Scheduling
-- Create and manage tasks directly within the extension. This includes setting tasks, due dates, and creating a priority list, as well as notifications of reminders.
-- Display a visual calendar or timeline view to schedule and plan your day.
+- Create and manage tasks directly within the extension. This includes setting tasks, due dates, and creating a priority list, as well as notifications of reminders. (completed)
+- Display a visual calendar or timeline view to schedule and plan your day. 
 - Integrate with popular task management tools like Todoist, Trello, or Google Tasks for seamless synchronization.
 
 ## 2. Notifications and Reminders
-- Send reminders and notifications for upcoming tasks, important deadlines, or blocked social media access.
+- Send reminders and notifications for upcoming tasks, important deadlines, or blocked social media access. (completed)
 - Customize the frequency and format of notifications to suit your preferences.
 - Provide options for email or mobile push notifications as well.
 
